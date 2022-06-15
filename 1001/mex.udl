@@ -1,0 +1,3 @@
+[oledb]
+;eee
+Provider=SQLOLEDB;User ID=sa;Password=123456;Initial Catalog=my_db;Data Source=DESKTOP-E350C5T\SQLEXPRESS
